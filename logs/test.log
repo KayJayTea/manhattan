@@ -1,0 +1,66 @@
+13:52:58.672 [main] INFO  com.manhattan.tests.Product_ADD_and_UPDATE - ********** BEGIN TEST **********
+13:52:59.319 [main] INFO  com.manhattan.tests.Product_ADD_and_UPDATE - Master Product Number entered: 1572979978680
+13:53:02.641 [main] INFO  com.manhattan.common.ReusableMethods - {"eventMeta": {"type": "ADD", "syncid": {"$numberLong": "1572979979000"}}}
+
+13:53:06.250 [main] INFO  com.manhattan.tests.Product_ADD_and_UPDATE - Chrome browser opened.
+13:53:08.378 [main] INFO  com.manhattan.tests.Product_ADD_and_UPDATE - Browser window maximized.
+13:53:08.912 [main] INFO  com.manhattan.tests.Product_ADD_and_UPDATE - Manhattan UI webpage opened
+13:53:08.938 [main] INFO  page.classes.LoginPage - 'Username' text field located.
+13:53:09.050 [main] INFO  page.classes.LoginPage - Username sent to UI
+13:53:09.077 [main] INFO  page.classes.LoginPage - [Submit] button located.
+13:53:09.142 [main] INFO  page.classes.LoginPage - [Submit] button was clicked.
+13:53:09.398 [main] INFO  page.classes.LoginPage - 'Password' text field located.
+13:53:09.481 [main] INFO  page.classes.LoginPage - Password sent to UI
+13:53:09.516 [main] INFO  page.classes.LoginPage - [Log In] button located.
+13:53:09.584 [main] INFO  page.classes.LoginPage - [Log In] button was clicked.
+13:53:18.608 [main] INFO  page.classes.HomePage - Menu located.
+13:53:18.661 [main] INFO  page.classes.HomePage - Menu was clicked.
+13:53:21.028 [main] INFO  page.classes.MenuPage - 'Master Data' option located.
+13:53:21.094 [main] INFO  page.classes.MenuPage - 'Master Data' option selected
+13:53:21.114 [main] INFO  page.classes.MenuPage - 'Manage Locations' option located.
+13:53:21.151 [main] INFO  page.classes.MenuPage - 'Manage Items' option located.
+13:53:21.244 [main] INFO  page.classes.MenuPage - 'Manage Items' option selected
+13:53:21.262 [main] INFO  page.classes.MenuPage - 'Items' option located.
+13:53:21.288 [main] INFO  page.classes.MenuPage - 'Items' option located.
+13:53:21.422 [main] INFO  page.classes.MenuPage - 'Items' option selected
+13:53:29.811 [main] INFO  page.classes.ItemsPage - 'Item Id' text field located.
+13:53:29.908 [main] INFO  page.classes.ItemsPage - 'Item Id' text field was clicked.
+13:53:31.923 [main] INFO  page.classes.ItemsPage - 'Item Id' text field located.
+13:53:32.146 [main] INFO  page.classes.ItemsPage - Keys sent to UI: 1572979978680
+13:53:37.167 [main] INFO  page.classes.ItemsPage - Green check mark located.
+13:53:37.291 [main] INFO  page.classes.ItemsPage - Green Check Mark clicked.
+13:53:42.601 [main] INFO  com.manhattan.common.ReusableMethods - {"hashCode": "94CFDC4E4B3DE55CA68A18466D382596"}
+
+13:53:43.576 [main] INFO  com.manhattan.tests.Product_ADD_and_UPDATE - Master Product Number entered: 1572979978680
+13:53:44.117 [main] INFO  com.manhattan.common.ReusableMethods - {"eventMeta": {"type": "UPDATE", "syncid": {"$numberLong": "1572980023000"}}}
+
+13:53:47.197 [main] INFO  com.manhattan.tests.Product_ADD_and_UPDATE - Chrome browser opened.
+13:53:49.344 [main] INFO  com.manhattan.tests.Product_ADD_and_UPDATE - Browser window maximized.
+13:53:49.836 [main] INFO  com.manhattan.tests.Product_ADD_and_UPDATE - Manhattan UI webpage opened
+13:53:49.864 [main] INFO  page.classes.LoginPage - 'Username' text field located.
+13:53:50.026 [main] INFO  page.classes.LoginPage - Username sent to UI
+13:53:50.047 [main] INFO  page.classes.LoginPage - [Submit] button located.
+13:53:50.091 [main] INFO  page.classes.LoginPage - [Submit] button was clicked.
+13:53:50.328 [main] INFO  page.classes.LoginPage - 'Password' text field located.
+13:53:50.391 [main] INFO  page.classes.LoginPage - Password sent to UI
+13:53:50.405 [main] INFO  page.classes.LoginPage - [Log In] button located.
+13:53:50.459 [main] INFO  page.classes.LoginPage - [Log In] button was clicked.
+13:53:59.153 [main] INFO  page.classes.HomePage - Menu located.
+13:53:59.232 [main] INFO  page.classes.HomePage - Menu was clicked.
+13:54:01.821 [main] INFO  page.classes.MenuPage - 'Master Data' option located.
+13:54:01.898 [main] INFO  page.classes.MenuPage - 'Master Data' option selected
+13:54:01.911 [main] INFO  page.classes.MenuPage - 'Manage Locations' option located.
+13:54:01.939 [main] INFO  page.classes.MenuPage - 'Manage Items' option located.
+13:54:02.006 [main] INFO  page.classes.MenuPage - 'Manage Items' option selected
+13:54:02.021 [main] INFO  page.classes.MenuPage - 'Items' option located.
+13:54:02.041 [main] INFO  page.classes.MenuPage - 'Items' option located.
+13:54:02.216 [main] INFO  page.classes.MenuPage - 'Items' option selected
+13:54:10.006 [main] INFO  page.classes.ItemsPage - 'Item Id' text field located.
+13:54:10.077 [main] INFO  page.classes.ItemsPage - 'Item Id' text field was clicked.
+13:54:12.093 [main] INFO  page.classes.ItemsPage - 'Item Id' text field located.
+13:54:12.248 [main] INFO  page.classes.ItemsPage - Keys sent to UI: 1572979978680
+13:54:17.265 [main] INFO  page.classes.ItemsPage - Green check mark located.
+13:54:17.400 [main] INFO  page.classes.ItemsPage - Green Check Mark clicked.
+13:54:22.714 [main] INFO  com.manhattan.common.ReusableMethods - {"hashCode": "D0CBB7D5C6BE9D52D8A602B3C54B2821"}
+
+13:54:23.433 [main] INFO  com.manhattan.tests.Product_ADD_and_UPDATE - ********** END TEST **********
